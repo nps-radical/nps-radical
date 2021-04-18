@@ -1,16 +1,23 @@
-### Hi there 👋
+### Olá, meu nome é Natanael
+ ✨ Sou Desenvolvo web ✨
+ 
+ ::Linkedi:: 
+ https://www.linkedin.com/in/natanael-p-silva-junior-699855165/
 
-<!--
-**nps-radical/nps-radical** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ::GitHub::
+ https://github.com/nps-radical
 
-Here are some ideas to get you started:
+ Alguns cursos que já fiz...
+  2010 - Curso Tec: Webdesigner.
+  2012 - Curso Tec: Montagem e manutenção de computadores.
+  2017 - Curso Tec: Microcontroldore, redes e dispositvos móveis.
+  2020 - Graduado: Tecnólogo em Análise e Desenvolvimento de Sistemas. 
+  2021 - Recolocação: Web developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Atualmente desenvolvo sites como freelance
+- 🌱 Atualmente estou aprendendo Django e Flask
+- 👯 Estou procurando colaborar em projetos com python.
+- 📫 E-mail: natanaeljunior_ba@hotmail.com
+- 📱 (73) 98203-9409
+
+### Até breve 👋
