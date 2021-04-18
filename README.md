@@ -1,4 +1,4 @@
-### Olá, meu nome é Natanael
+### Olá, meu nome é Natanael 👋
  ✨ Sou Desenvolvo web ✨
  
  ::Linkedi:: 
@@ -20,4 +20,4 @@
 - 📫 E-mail: natanaeljunior_ba@hotmail.com
 - 📱 (73) 98203-9409
 
-### Até breve 👋
+Até breve... 
