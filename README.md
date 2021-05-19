@@ -1,5 +1,5 @@
 ### Olá, meu nome é Natanael 👋
- ✨ Sou Desenvolvo web ✨
+ ✨ Web Dev ✨
  
  ::Linkedi:: 
  https://www.linkedin.com/in/natanael-p-silva-junior-699855165/
